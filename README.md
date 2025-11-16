@@ -102,3 +102,32 @@ Traditional learning tools often lack interactivity and multisensory engagement.
 - [Arduino Libraries](https://www.arduino.cc/en/Reference/Libraries)
 - [DFPlayer Mini Guide](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299)
 - [MFRC522 RFID Setup](https://randomnerdtutorials.com/security-access-using-rfid-arduino/)
+
+---
+
+## 📜 License
+
+This project is part of the academic coursework at **SLIIT** and is intended for educational and collaborative purposes. Redistribution or reuse is welcome with proper credit to the original team.
+
+© 2025 _Y1S1Group9_ — **Learn-Safari-EduKit**
+
+---
+
+## 🙌 Acknowledgments
+
+- SLIIT Faculty for guidance and mentorship  
+- Group 9 teammates for their contribution and collaboration  
+- STEM Course Coordinators for project framework  
+- GitHub and open-source communities for tools and libraries  
+- Arduino and DFPlayer Mini communities for tutorials and support  
+- Sinhala-speaking peer network for feedback and testing
+
+---
+
+If this project helped you, feel free to ⭐ the repo or share your thoughts.  
+We welcome suggestions, forks, and future collaborations!
+
+---
+
+🧠 Built with curiosity, creativity, and commitment by **_Y1S1Group9 | SLIIT 2025_**
+
