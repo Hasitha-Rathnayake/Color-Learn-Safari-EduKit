@@ -4,19 +4,6 @@ An Arduino-based interactive learning tool designed to help children explore col
 
 ---
 
-## 📚 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [System Architecture](#system-architecture)
-- [Hardware Used](#hardware-used)
-- [Software Used](#software-used)
-- [Features](#features)
-- [How to Run](#how-to-run)
-- [Team Members](#team-members)
-- [References](#references)
-
----
-
 ## 📖 Overview
 Color-Alpha-EduKit is a modular learning system that combines RFID card scanning, potentiometer-based color selection, and audio playback to create an engaging experience for early learners. It helps children associate letters and colors with sounds and visuals, reinforcing memory and recognition.
 
