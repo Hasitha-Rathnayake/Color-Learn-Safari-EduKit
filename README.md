@@ -91,7 +91,10 @@ Traditional learning tools often lack interactivity and multisensory engagement.
 ---
 
 ## 👥 Team Members
-- Hasitha Rathnayake (SLIIT)
+- Hasitha Rathnayake(ME)
+- Parindya D.C.D.N 
+- Karunasena K.G.T.A 
+- Ashinshani M.N 
 
 ---
 
